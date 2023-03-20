@@ -3,7 +3,7 @@ import React from 'react'
 function Testimonial() {
   return (
     <div>
-      <section class="text-gray-600 body-font">
+      <section class="text-white body-font ">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap -m-4">
       <div class="lg:w-1/3 lg:mb-0 mb-6 p-4">

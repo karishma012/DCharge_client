@@ -9,7 +9,7 @@ import { Content } from './components/Content'
 import { Faqs } from './components/Faqs'
 import Testimonial from './components/Testimonial'
 import { Header2 } from './components/Header2'
-
+import Form from './components/Form'
 // import Practice from './components/Practice'
 import image from "./img/1.jpg"; 
 import image2 from "./img/3.jpg"; 
@@ -63,7 +63,10 @@ function App() {
      <div className="container bg-cover bg-center h-screen" style={mystyle}>
      <Faqs/>
      </div>
-     <div className="container bg-cover bg-center h-screen" style={mystyle}>
+     <div className="container bg-cover bg-center h-screen" style={mystyle2}>
+    <Form/>
+    </div>
+    <div className="container bg-cover bg-center h-screen" style={mystyle}>
     <Testimonial/> 
     </div>
     {/* <Footer/> */}
