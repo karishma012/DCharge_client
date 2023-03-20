@@ -3,7 +3,7 @@ import React from 'react'
 import { Header } from './components/Header'
 import Navbar from './components/Navbar'
 import Pricing from './components/Pricing'
-import Statistic from './components/Statistic'
+
 import { Header2 } from './components/Header2'
 import Form from './components/Form'
 // import Practice from './components/Practice'
