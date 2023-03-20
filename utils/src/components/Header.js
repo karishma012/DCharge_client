@@ -7,45 +7,48 @@ export const Header = () => {
           <div className="flex flex-col justify-center">
             <div className="max-w-xl mb-6">
               <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-white sm:text-4xl sm:leading-none">
-                The quick, brown fox
-                <br className="hidden md:block" />
-                jumps over{' '}
+                Decentralized
                 <span className="relative px-1">
                   <div className="absolute inset-x-0 bottom-0 h-3 transform -skew-x-12 bg-teal-accent-400" />
                   <span className="relative inline-block text-deep-purple-accent-400">
                   <Typed
-                    strings={['a lazy dog','development']}
+                    strings={['POWER','CHARGING']}
                     typeSpeed={40}
                 />
                   </span>
                 </span>
+                <br className="hidden md:block" />
+                Stations{' '}
               </h2>
               <p className="text-base text-white md:text-lg">
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-                quae. explicabo.
+              India has an active network of 934 active public charging stations.
+               Here’s a tool to locate how close a charging station is based on your location
               </p>
             </div>
             <div className="grid gap-5 row-gap-8 sm:grid-cols-2">
               <div className="bg-white border-l-4 shadow-sm border-deep-purple-accent-400">
                 <div className="h-full p-5 border border-l-0 rounded-r">
                   <h6 className="mb-2 font-semibold leading-5">
-                    I'll be sure to note that in my log
+                  We offer smart, safe and innovative charging solutions
                   </h6>
                   <p className="text-sm text-gray-900">
-                    Lookout flogging bilge rat main sheet bilge water nipper fluke
-                    to go on account heave down.
+                  Complete End-to-End Services, from Captive Charger Installations to Maintenance
+                  <br/>
+                 EV CMS Software
+                 <br/>
+                  
                   </p>
                 </div>
               </div>
               <div className="bg-white border-l-4 shadow-sm border-deep-purple-accent-400">
                 <div className="h-full p-5 border border-l-0 rounded-r">
                   <h6 className="mb-2 font-semibold leading-5">
-                    A business big enough that it could be listed
+                  Find your nearest EV Charge point
                   </h6>
                   <p className="text-sm text-gray-900">
-                    Those options are already baked in with this model shoot me an
-                    email clear.
+                  Solutions for Cars and Buses
+                   <br/>
+Attractive offers for Power Public Charging Stations
                   </p>
                 </div>
               </div>

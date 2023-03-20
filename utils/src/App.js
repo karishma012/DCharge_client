@@ -42,10 +42,10 @@ function App() {
     <div className="container bg-cover bg-center h-screen" style={mystyle}>
     <Header2  />
     </div>
-    <div className="container bg-cover bg-center h-screen" style={mystyle2}>
+    <div className="container bg-cover bg-center h-screen" style={mystyle}>
     <Pricing/>
     
-    <Statistic/>
+    {/* <Statistic/> */}
     </div>
    
      <div className="container bg-cover bg-center h-screen "style={mystyle2} >
