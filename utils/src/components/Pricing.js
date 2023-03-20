@@ -6,7 +6,7 @@ function Pricing() {
       <section class="text-white body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
-      <h1 class="sm:text-4xl text-3xl font-medium title-font mb-2 ">Pricing</h1>
+      <h1 class="sm:text-4xl text-3xl font-medium title-font mb-2 animate-pulse ">Pricing</h1>
       <p class="lg:w-2/3 mx-auto leading-relaxed text-base ">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical.</p>
       <div class="flex mx-auto border-2 border-indigo-500 rounded overflow-hidden mt-6">
         <button class="py-1 px-4 bg-indigo-500 text-white focus:outline-none">Monthly</button>

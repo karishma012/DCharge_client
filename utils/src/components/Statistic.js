@@ -3,7 +3,7 @@ import React from 'react'
 function Statistic() {
   return (
     <div>
-        <h1 className='text-white text-3xl text-center'>STATISTICS</h1>
+        <h1 className='text-white font-bold text-center text-3xl  animate-pulse'>STATISTICS</h1>
       <section class="text-white body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div class="flex flex-wrap -mx-4 mt-auto mb-auto lg:w-1/2 sm:w-2/3 content-start sm:pr-10">

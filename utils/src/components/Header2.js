@@ -44,7 +44,7 @@ export const Header2 = () => {
           <div className="grid grid-cols-2 gap-5">
             <img
               className="object-cover w-full h-56 col-span-2 rounded shadow-lg"
-              src="https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20210719054922_0_490_735_0_70_http%20_img.haymarketsac.in_autocarpro_dd697bf0_a810_4789_9064_d43c4997f910.jpg&w=700&q=90&c=1"
+              src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWjMkZdJLzUM/v1/1200x-1.jpg"
               alt="click"
             />
             <img

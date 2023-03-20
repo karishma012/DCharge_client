@@ -115,11 +115,14 @@ function Form() {
         />
       </div>
       <div>
+        <div className="flex justify-center">
         <button
-          class="hover:shadow-form rounded-md bg-[#6A64F1] py-3 px-8 text-base font-semibold text-white outline-none "
+          class="hover:shadow-form rounded-md bg-[green] py-3 px-8 text-base font-semibold text-white outline-none  "
         >
           Submit
         </button>
+        </div>
+        
       </div>
     </form>
   </div>

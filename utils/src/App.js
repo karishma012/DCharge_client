@@ -4,10 +4,6 @@ import { Header } from './components/Header'
 import Navbar from './components/Navbar'
 import Pricing from './components/Pricing'
 import Statistic from './components/Statistic'
-import { Carousel } from './components/Carousel'
-import { Content } from './components/Content'
-import { Faqs } from './components/Faqs'
-import Testimonial from './components/Testimonial'
 import { Header2 } from './components/Header2'
 import Form from './components/Form'
 // import Practice from './components/Practice'
@@ -38,11 +34,7 @@ function App() {
   }
   return (
     <>
-    {/* <div className="container" style={mystyle}> */}
-      {/* <h1 className='text-black font-sans text-3xl font-semibold underline text-center animate-pulse'>Registration</h1> */}
-    {/* <Practice/> */}
-      
-    {/* </div> */}
+   
     <div className="container bg-cover bg-center h-screen" style={mystyle}>
     <Navbar/>
     <Header/>
@@ -53,23 +45,13 @@ function App() {
     <div className="container bg-cover bg-center h-screen" style={mystyle2}>
     <Pricing/>
     
-    {/* <Carousel/> */}
-    
     <Statistic/>
     </div>
-    <div className="container bg-cover bg-center h-screen" style={mystyle2}>
-     <Content/>
-     </div>
-     <div className="container bg-cover bg-center h-screen" style={mystyle}>
-     <Faqs/>
-     </div>
-     <div className="container bg-cover bg-center h-screen" style={mystyle2}>
+   
+     <div className="container bg-cover bg-center h-screen "style={mystyle2} >
     <Form/>
     </div>
-    <div className="container bg-cover bg-center h-screen" style={mystyle}>
-    <Testimonial/> 
-    </div>
-    {/* <Footer/> */}
+    
     
     </>
   )
